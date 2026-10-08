@@ -2,6 +2,8 @@
 
 A TensorFlow/Keras project that classifies an image as **AI generated** or **real** using a convolutional neural network (CNN). It includes a Jupyter notebook for data preparation, training, evaluation, and model export, plus a CustomTkinter desktop interface for single-image predictions.
 
+> **Historical project:** This repository preserves an older project for reference and portfolio purposes. The application and training workflow have not been verified to run with current dependencies. Recorded results come from the original notebook; the project has not been modernized or retrained.
+
 The notebook contains a saved evaluation with **92.23% accuracy**. This is a historical result from the notebook's test pipeline, not a guarantee of performance on new images or a independently reproduced benchmark.
 
 ## Contents
